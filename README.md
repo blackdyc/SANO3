@@ -11,9 +11,8 @@
 
 We introduce **FG-OVSSRS**, a fine-grained open-vocabulary semantic segmentation benchmark for remote sensing images. The benchmark covers diverse remote-sensing scenarios and provides synonym-expanded category queries to evaluate model robustness under flexible real-world open-vocabulary usage.
 
-The benchmark is publicly available on Hugging Face:
+The benchmark is publicly available on Hugging Face: 🤗 [FG-OVSSRS Bench](https://huggingface.co/datasets/blackdyc/FG-OVSSRS)
 
-[https://huggingface.co/datasets/blackdyc/FG-OVSSRS](https://huggingface.co/datasets/blackdyc/FG-OVSSRS)
 
 ## TODO
 
