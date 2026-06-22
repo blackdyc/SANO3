@@ -1,4 +1,4 @@
-<h3 align="center">From Visual Primitives to Semantic Masks: Fine-Grained Visual-Linguistic Alignment for Open-Vocabulary Remote Sensing Image Segmentation</h3>
+<h2 align="center">From Visual Primitives to Semantic Masks: Fine-Grained Visual-Linguistic Alignment for Open-Vocabulary Remote Sensing Image Segmentation</h2>
 
 Official repository for **SANO3**, a training-free framework for fine-grained open-vocabulary semantic segmentation in remote sensing images.
 
