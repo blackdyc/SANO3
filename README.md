@@ -18,5 +18,3 @@ The benchmark is publicly available on Hugging Face: 🤗 [FG-OVSSRS Bench](http
 
 - [x] Release the FG-OVSSRS benchmark.
 - [ ] Release SANO3 code.
-- [ ] Release configuration files and evaluation scripts.
-- [ ] Add dataset preparation and reproduction guidelines.
