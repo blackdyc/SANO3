@@ -1,9 +1,9 @@
 <div align="center">
 
 
-# From Visual Primitives to Semantic Masks: Fine-Grained Visual-Linguistic Alignment for Open-Vocabulary Remote Sensing Image Segmentation</h2>
+# From Visual Primitives to Semantic Masks: Fine-Grained Visual-Linguistic Alignment for Open-Vocabulary Remote Sensing Image Segmentation
 
-[Open-sourced Benchmark](https://huggingface.co/datasets/blackdyc/FG-OVSSRS">FG-OVSSRS Benchmark) 
+[Open-sourced Benchmark](https://huggingface.co/datasets/blackdyc/FG-OVSSRS) 
 
 </div>
 
